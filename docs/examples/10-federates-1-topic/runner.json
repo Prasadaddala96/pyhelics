@@ -4,61 +4,61 @@
       "directory": ".",
       "exec": "python -u pisender.py 1",
       "host": "localhost",
-      "name": "pisender1"
+      "name": "SenderFederate1"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 1",
       "host": "localhost",
-      "name": "pireceiver1"
+      "name": "ReceiverFederate1"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 2",
       "host": "localhost",
-      "name": "pireceiver2"
+      "name": "ReceiverFederate2"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 3",
       "host": "localhost",
-      "name": "pireceiver3"
+      "name": "ReceiverFederate3"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 4",
       "host": "localhost",
-      "name": "pireceiver4"
+      "name": "ReceiverFederate4"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 5",
       "host": "localhost",
-      "name": "pireceiver5"
+      "name": "ReceiverFederate5"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 6",
       "host": "localhost",
-      "name": "pireceiver6"
+      "name": "ReceiverFederate6"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 7",
       "host": "localhost",
-      "name": "pireceiver7"
+      "name": "ReceiverFederate7"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 8",
       "host": "localhost",
-      "name": "pireceiver8"
+      "name": "ReceiverFederate8"
     },
     {
       "directory": ".",
       "exec": "python -u pireceiver.py 9",
       "host": "localhost",
-      "name": "pireceiver9"
+      "name": "ReceiverFederate9"
     },
     {
       "directory": ".",
